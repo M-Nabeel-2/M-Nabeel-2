@@ -1,4 +1,4 @@
-<p align="center"> <img src="[https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif](https://www.linkedin.com/in/muhammadnabeel12/overlay/background-image/)" alt="" height="240" width="400"  /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" alt="" height="240" width="400"  /> </p>
 
 <h1 align="center">
 Hi 👋, I'm MUHAMMAD NABEEL
